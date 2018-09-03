@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Cadê o meu remédio
 
-You can use the [editor on GitHub](https://github.com/vasel/cademeuremedio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Projeto "Cadê o meu remédio", apresentado no Hackfest 2018, realizado em João Pessoa. Maiores detalhes sobre o evento podem ser encontradas em: http://hackfest.com.br/ .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O site do projeto é o https://www.cademeuremedio.com.br/.
 
-### Markdown
+Um vídeo explicativo sobre o projeto está disponível em: https://goo.gl/wkQsUz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os nomes comerciais dos medicamentos foram obtidos em: https://github.com/aspto/base-de-dados-de-medicamentos . Obrigado, Stephan Garcia por ter encontrado esse repositório e por todo o apoio que nos deu.
 
-```markdown
-Syntax highlighted code block
+A base de medicamentos disponíveis nos postos de saúde foi obtida em: http://portalms.saude.gov.br/assistencia-farmaceutica/medicamentos-rename
 
-# Header 1
-## Header 2
-### Header 3
+Você pode ajudar melhorando o código ou divulgando o projeto. Contribuições de código são bem vindas! Por favor reporte os erros nos issues do projeto. Está previsto um módulo de analytics, ainda não desenvolvido. Colaborações são bem vindas!
 
+#Equipe que desenvolveu o projeto:
 - Bulleted
-- List
+- Bruna Mello Donadel 
+- Daniel Amado Garcia Junior  
+- Felipe Ivo Rosa
+- Marco Antônio Floriano de Oliveira 
+- Melissa Figueira Fagundes 
+- Naiara Czarnobai Augusto 
+- Rafael Luís Vasel 
+- Rodrigo Gaspar 
 
-1. Numbered
-2. List
+Agradecemos a todos os organizadores e pessoas que nos apoiaram durante o Hackfest 2018, em especial ao Daniel Fireman, por todo o apoio com deploys automáticos no Heroku e ao Stephan Garcia, pelo apoio com as fontes de dados. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasel/cademeuremedio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Valide sempre com o farmaceutico se a correlação do princípio ativo com o nome comercial está correta. 
